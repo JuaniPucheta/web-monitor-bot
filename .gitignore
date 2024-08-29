@@ -1,0 +1,8 @@
+# Ignorar el archivo de entorno
+.env
+
+# Ignorar la carpeta de node_modules
+node_modules/
+
+# Ignorar los screenshots
+src/screenshots/
